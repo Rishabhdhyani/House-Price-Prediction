@@ -7,5 +7,5 @@ This notebook deals with three major section:-
 2) Feature Engineering
 3) Modeling[Blending and Stacking]
 
-
+I have achieved 86th rank on leaderboard[Top 2%]. 
 
